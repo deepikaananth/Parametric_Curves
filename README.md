@@ -1,2 +1,10 @@
 # Parametric_Curves
-Parametric curve generation with user input based coefficients (W.I.P)
+
+Epicycloid curve generation driven by user input. 
+
+
+Gallery:
+
+<p align="center" width=500>
+  <img src="epicycloids.png" />
+</p>
